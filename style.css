@@ -109,7 +109,7 @@
   background-image: url('https://iamdamla.github.io/quiz-app/img/circle-filled.svg');
 }
 .jabquiz__choices label i {
-  background: url('https://iamdamla.github.io/quiz-app/img/circle-outline.svg');
+  background-image: url('https://iamdamla.github.io/quiz-app/img/circle-outline.svg');
   background-size: 40px;
   height: 40px;
   width: 40px;
